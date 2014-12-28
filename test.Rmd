@@ -1,5 +1,5 @@
 ---
-title: "My test2"
+title: "My test"
 output: pdf_document
 ---
 
